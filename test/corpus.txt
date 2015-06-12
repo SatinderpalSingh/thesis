@@ -5,3 +5,11 @@ backward
 next window
 last window
 open music player
+
+ਓਪਨ  ਬ੍ਰੋਵ੍ਸ਼ਰ
+ਨਯੂ ਈਮੇਲ   
+ਫਾਰ੍ਵਰ੍ਡ   
+ਬੈਕਵਰਡ   
+ਨੇਕ੍ਸ੍ਟ ਵਿਨਡਓ   ਲਾ
+ਸ੍ਟ  ਵਿਨਡਓ ਓ
+ਪਨ ਮ੍ਯੂਜਿਕ  ਪਲੇਯਰ  
